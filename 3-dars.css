@@ -1,0 +1,25 @@
+.body{
+  background-color: rgb(32, 178, 159);
+  
+}
+.welcome{text-align: center;
+color: aliceblue;
+
+  
+}
+.we{
+  color: rgb(195, 255, 0);
+  text-align: center;
+}
+.matn{
+  background-color: aliceblue;
+background-color:rgb(32, 178, 159) ;
+text-align:center ;
+color: white;
+}
+.button{
+  background-color:rgb(32, 178, 159) ;
+  color: rgb(195, 255, 0);
+  text-align: center;
+  border: 2px solid black;
+}
